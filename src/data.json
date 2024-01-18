@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "nameFirst": "John",
+      "nameLast": "Doe",
+      "email": "email@gmail.com",
+      "password": "4632fa5c3470624d0c6a1d1cb499e37f$8eaad354171d1a00e596db85113b1286bf5757076754cd84328ab94276a26f3c6acdc150df66912af0a7eecbc550f082a1c88b1b082ab346f535599be7171f87",
+      "oldPasswords": [],
+      "numSuccessfulLogins": 1,
+      "numFailedPasswordsSinceLastLogin": 0
+    }
+  ],
+  "quizzes": [
+    {
+      "quizId": 2,
+      "name": "Quiz1",
+      "authUserId": 1,
+      "timeCreated": 1700130355,
+      "timeLastEdited": 1700130355,
+      "description": "Quiz about food",
+      "numQuestions": 1,
+      "questions": [
+        {
+          "questionId": 5,
+          "question": "1) Who is the Monarch of England?",
+          "duration": 3,
+          "points": 5,
+          "answers": [
+            {
+              "answerId": 4,
+              "answer": "Prince Charles",
+              "colour": "red",
+              "correct": true
+            },
+            {
+              "answerId": 6,
+              "answer": "Not Princes Charles",
+              "colour": "yellow",
+              "correct": false
+            }
+          ],
+          "thumbnailUrl": "https://prod.scorptec.com.au/18/991/101583/286786_feature.png"
+        }
+      ],
+      "duration": 3,
+      "thumbnailUrl": ""
+    }
+  ],
+  "trash": [],
+  "userSessions": [
+    {
+      "token": "b1734080-c2ca-4b59-b633-daf5285e772c",
+      "authUserId": 1,
+      "timeCreated": 1700130355
+    }
+  ],
+  "quizSessions": [
+    {
+      "quizSessionId": 6,
+      "state": "LOBBY",
+      "atQuestion": 0,
+      "autoStartNum": 40,
+      "players": [
+        {
+          "playerId": 7,
+          "name": "Hayden Smith",
+          "answerIds": [],
+          "score": 0,
+          "questionAnswerTime": [],
+          "pointsAtQuestion": []
+        }
+      ],
+      "metadata": {
+        "quizId": 2,
+        "name": "Quiz1",
+        "authUserId": 1,
+        "timeCreated": 1700130355,
+        "timeLastEdited": 1700130355,
+        "description": "Quiz about food",
+        "numQuestions": 1,
+        "questions": [
+          {
+            "questionId": 5,
+            "question": "1) Who is the Monarch of England?",
+            "duration": 3,
+            "points": 5,
+            "answers": [
+              {
+                "answerId": 4,
+                "answer": "Prince Charles",
+                "colour": "red",
+                "correct": true
+              },
+              {
+                "answerId": 6,
+                "answer": "Not Princes Charles",
+                "colour": "yellow",
+                "correct": false
+              }
+            ],
+            "thumbnailUrl": "https://prod.scorptec.com.au/18/991/101583/286786_feature.png"
+          }
+        ],
+        "duration": 3,
+        "thumbnailUrl": ""
+      },
+      "messages": [],
+      "questionResults": [],
+      "questionOpenTime": []
+    }
+  ],
+  "maxId": 7
+}
