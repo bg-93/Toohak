@@ -4,8 +4,7 @@
 
 ## Contents
 
-* TOC
-{:toc}
+[_TOC_] 
 
 ## Change Log
 
