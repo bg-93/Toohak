@@ -2,10 +2,6 @@
 
 **✨ 🥜 Toohak 🥜 ✨**
 
-## Contents
-
-[[_TOC_]] 
-
 ## Change Log
 
 * 25/09: A few remaining references to 'assumptions' removed from the spec
