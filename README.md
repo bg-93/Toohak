@@ -4,7 +4,7 @@
 
 ## Contents
 
-[_TOC_] 
+[[_TOC_] 
 
 ## Change Log
 
